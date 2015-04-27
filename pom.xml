@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.cloudnative.teamcity</groupId>
   <artifactId>webhooks</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
 
   <repositories>
     <repository>
@@ -14,7 +14,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:evgeny-goldin/teamcity-webhooks.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>webhooks-0.0.2</tag>
   </scm>
 
   <build>
